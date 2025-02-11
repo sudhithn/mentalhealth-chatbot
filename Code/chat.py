@@ -1,12 +1,12 @@
 # META DATA - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 # Developer details: 
-    # Names: Sudhith N and Manomay Kagalkar
+    # Names: Sudhith N
     # Role: Architects
-    # Code ownership rights: Sudhith N and Manomay Kagalkar
+    # Code ownership rights: Sudhith N
 # Version:
     # Version: V 1.1 (26 Nov 2024)
-        # Developers: Sudhith N and Manomay Kagalkar
+        # Developers: Sudhith N
         # Unit test: Pass
         # Integration test: Pass
  
